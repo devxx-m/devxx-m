@@ -29,7 +29,7 @@
 ### 👾 Activity Grid
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxx-m&theme=react-dark&area=true&hide_border=true&color=00F0FF&line=00F0FF&point=FF007A" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=devxx-m&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
