@@ -1,19 +1,20 @@
-<!-- RETRO GAME BANNER -->
+<!-- TOP CYBERPUNK WAVE BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:FF007A&height=220&section=header&text=PLAYER%201%3A%20MARIEM%20FARHAT&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- RETRO PIXEL TYPING -->
+<!-- RETRO PIXEL TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%8E%AE+CLASS%3A+IoT+%26+Computer+Engineering;%E2%9A%A1+MAIN+ATTACK%3A+C+%7C+Python+%7C+Web+Dev;%F0%9F%9A%80+CURRENT+QUEST%3A+Embedded+Systems" alt="Game Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+IoT+%26+Computer+Engineering+Student;%F0%9F%92%BB+Low-Level+C+%7C+Python+%7C+JavaScript+%7C+PHP;%F0%9F%9A%80+Architecting+Smart+Devices+%26+Web+Systems" alt="Game Typing SVG" />
   </a>
 </p>
 
+<!-- GAMIFIED STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-COMPUTER%20ENGINEER-00F0FF?style=for-the-badge&logo=gamepad&logoColor=black" />
+  <img src="https://img.shields.io/badge/CLASS-COMPUTER%20ENGINEER-00F0FF?style=for-the-badge&logo=gamepad&logoColor=black" />
   <img src="https://img.shields.io/badge/HP-100%25-00E676?style=for-the-badge&logo=battery&logoColor=black" />
-  <img src="https://img.shields.io/badge/MODE-ACTIVE-FF007A?style=for-the-badge&logo=arcade&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-FF007A?style=for-the-badge&logo=arcade&logoColor=white" />
 </p>
 
 ---
@@ -26,15 +27,7 @@
 
 ---
 
-### 👾 Activity Grid
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=devxx-m&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🏆 Scoreboard & Player Stats
+### 🏆 Player Stats & Telemetry
 
 <br />
 
@@ -55,8 +48,12 @@
   <a href="mailto:meriemfarhat2007@gmail.com">
     <img src="https://img.shields.io/badge/PRESS%20START-SEND%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/devxx-m">
+    <img src="https://img.shields.io/badge/GitHub-devxx--m-181717?style=for-the-badge&logo=github&logoColor=00F0FF" />
+  </a>
 </p>
 
+<!-- BOTTOM ANIMATED WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007A,50:7B2CBF,100:00F0FF&height=100&section=footer" width="100%" />
 </p>
