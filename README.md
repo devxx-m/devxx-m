@@ -1,24 +1,24 @@
-<!-- ARCADE BANNER -->
+<!-- RETRO GAME BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:FF007A&height=220&section=header&text=MARIEM%20FARHAT&fontSize=52&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CBF,100:FF007A&height=220&section=header&text=PLAYER%201%3A%20MARIEM%20FARHAT&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- LIVE DYNAMIC TYPING -->
+<!-- RETRO PIXEL TYPING -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+IoT+%26+Computer+Engineering+Student;%F0%9F%92%A1+Embedded+Systems+%2C+Low-Level+C+%26+Web+Dev;%F0%9F%9A%80+Architecting+Smart+Devices+%26+Clean+Software" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%8E%AE+CLASS%3A+IoT+%26+Computer+Engineering;%E2%9A%A1+MAIN+ATTACK%3A+C+%7C+Python+%7C+Web+Dev;%F0%9F%9A%80+CURRENT+QUEST%3A+Embedded+Systems" alt="Game Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-ACTIVE-00F0FF?style=for-the-badge&logo=powerpages&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%26%20IoT-7B2CBF?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building-FF007A?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEVEL-COMPUTER%20ENGINEER-00F0FF?style=for-the-badge&logo=gamepad&logoColor=black" />
+  <img src="https://img.shields.io/badge/HP-100%25-00E676?style=for-the-badge&logo=battery&logoColor=black" />
+  <img src="https://img.shields.io/badge/MODE-ACTIVE-FF007A?style=for-the-badge&logo=arcade&logoColor=white" />
 </p>
 
 ---
 
-### ⚡ Technical Ecosystem
+### 🕹️ Inventory & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,mysql,arduino,linux,git,vscode,figma&perline=7" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 📈 Activity Matrix
+### 👾 Activity Grid
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxx-m&theme=react-dark&area=true&hide_border=true&color=00F0FF&line=00F0FF&point=FF007A" width="100%" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 Live Telemetry & Metrics
+### 🏆 Scoreboard & Player Stats
 
 <br />
 
@@ -49,14 +49,11 @@
 
 ---
 
-### 📡 Connection Terminals
+### 🎮 Multiplayer / Contact
 
 <p align="center">
   <a href="mailto:meriemfarhat2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Direct%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/devxx-m">
-    <img src="https://img.shields.io/badge/GitHub-devxx--m-181717?style=for-the-badge&logo=github&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/PRESS%20START-SEND%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
