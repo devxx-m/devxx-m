@@ -25,8 +25,8 @@ Computer Science & IoT Engineering Student passionate about web development, sof
 ---
 
 ### 📊 GitHub Stats
-![Mariem's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxx_m&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devxx_m&layout=compact&theme=tokyonight)
+![Mariem's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxx-m&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devxx-m&layout=compact&theme=tokyonight)
 
 ---
 
