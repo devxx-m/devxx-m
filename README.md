@@ -15,7 +15,7 @@
 
 | 🎮 **Player Stats** | 📊 **Attribute Levels** | ⚡ **Status Effect** |
 | :--- | :--- | :--- |
-| **Class** | `IoT / Embedded Engineer` 🧙‍♀️ | `Buffed (+100% Logic)` |
+| **Class** | `IoT / Computer Engineer` 🧙‍♀️ | `Buffed (+100% Logic)` |
 | **HP / Energy** | `██████████ 100%` 💖 | `Coffee Infused ☕` |
 | **MP / Focus** | `██████████ 100%` ✨ | `Debugging Mode 🛠️` |
 
@@ -28,7 +28,7 @@
 ### 🎒 Equipment & Skill Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,mysql,arduino,linux,git,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,php,html,css,mysql,git,vscode&perline=5" />
 </p>
 
 ---
