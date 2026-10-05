@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxx-m&theme=synthwave&hide_border=true&background=0D1117&ring=FF9EBB&fire=00F0FF&currStreakLabel=FF9EBB" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=devxx-m&theme=synthwave&hide_border=true&background=0D1117&ring=FF9EBB&fire=00F0FF&currStreakLabel=FF9EBB" width="90%" />
 </p>
 
 ---
