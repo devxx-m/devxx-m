@@ -40,10 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxx-m&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF9EBB" height="175" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=devxx-m&theme=synthwave&hide_border=true&background=0D1117&ring=FF9EBB&fire=00F0FF&currStreakLabel=FF9EBB" width="90%" />
-</p>
-
 ---
 
 ### 💌 Send a Guild Message / Co-op Request
